@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  packageRules: [
+  "packageRules": [
 	  {
 		"matchUpdateTypes": ["minor", "patch", "pin", "digest"],
 		"automerge": true
