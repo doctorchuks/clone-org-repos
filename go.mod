@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-git/go-git/v5 v5.4.2
-	github.com/shurcooL/githubv4 v0.0.0-20221021030919-a134b1472cc7
+	github.com/shurcooL/githubv4 v0.0.0-20221126192849-0b5c4c7994eb
 	github.com/spf13/cobra v1.6.1
 	golang.org/x/oauth2 v0.2.0
 )
